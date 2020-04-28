@@ -1,1 +1,1 @@
-# hello-world
+# my name is solomray i like codeing
